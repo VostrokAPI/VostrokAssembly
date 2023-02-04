@@ -1,2 +1,2 @@
 # VostrokAssembly
-Vostrok Assembly Languages
+Vostrok Assembly Language
